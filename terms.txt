@@ -1,0 +1,32 @@
+VIRTUAL MINER TERMS OF SERVICE
+Effective date: October 30, 2026
+
+These Terms apply to your use of the Virtual Miner Discord application and related game features (the "Service"), operated by Acompany ("we," "us," or "our"). By using the Service, you agree to these Terms. If you do not agree, stop using the Service.
+
+ELIGIBILITY AND DISCORD
+You must be allowed to use Discord and the Service under the minimum-age rules and laws that apply to you. Your use of Discord is also governed by Discord's own terms, policies, and community guidelines. We do not control Discord or its availability.
+
+GAME CONTENT AND VIRTUAL ITEMS
+Coins, resources, crews, levels, boosts, and other game progress are virtual entertainment features. They have no real-world monetary value, are not redeemable for cash, and do not represent ownership of real minerals or property. We do not currently sell virtual currency through the Service.
+
+Game progress may be changed, reset, or become unavailable if the Service changes, a server is removed, data is corrupted, or the Service is discontinued. Do not rely on saved game progress as a permanent record.
+
+ACCEPTABLE USE
+You agree not to misuse the Service, interfere with its operation, exploit bugs to disrupt play or obtain unauthorized advantages, evade Discord restrictions, or use the Service to violate applicable law or another person's rights. Crew names and tags must comply with Discord's rules and applicable law. We may restrict access or remove content when reasonably necessary to protect users, servers, or the Service.
+
+PUBLIC GAME ACTIVITY
+Some game results and dashboard controls are posted in Discord channels. People who can view those channels may see the posted content. Server administrators control channel access and may configure where results are posted.
+
+AVAILABILITY AND CHANGES
+We may update, suspend, or discontinue any part of the Service or these Terms. We will update the effective date when these Terms materially change. Continued use after an update means you accept the revised Terms; if you do not accept them, stop using the Service.
+
+DISCLAIMER AND LIABILITY
+The Service is provided for entertainment on an "as available" basis. To the extent allowed by applicable law, we make no guarantees that it will be uninterrupted, error-free, or preserve game progress, and we are not liable for indirect or consequential loss arising from its use. Nothing in these Terms excludes rights or remedies that cannot legally be excluded.
+
+GOVERNING LAW
+These Terms are governed by the laws of the Republic of the Philippines, subject to any mandatory protections that apply where you live.
+
+CONTACT
+Questions about these Terms: gohanagustin07@gmail.com
+
+Virtual Miner is not affiliated with, endorsed by, or sponsored by Discord.

@@ -1,0 +1,42 @@
+VIRTUAL MINER PRIVACY POLICY
+Effective date: October 30, 2026
+
+This policy explains how Acompany ("we," "us," or "our"), the operator of the Virtual Miner Discord application (the "Service"), handles information when you use it. Discord separately handles information under its own privacy policy.
+
+INFORMATION THE SERVICE PROCESSES
+The Service processes information needed to run game features and respond to Discord interactions, including:
+
+- Discord user IDs, usernames, and display names used to identify players, show activity, and maintain server membership records.
+- Discord server, channel, and message IDs, and server names, used for server settings, public results, and dashboard references.
+- Game profile information such as currency, resources, inventory, level, experience, equipment, settings, achievements, quest and daily progress, cooldowns, and mining statistics.
+- Crew names and tags, membership and role information, invitations, and crew activity.
+- Server settings and event participation or contribution records.
+- Records of privileged owner actions, which may include the actor's Discord ID, affected server and user IDs, action, timestamp, and before-and-after game or settings values.
+
+The Service uses Discord commands, buttons, menus, and forms to process requests. It does not request Discord's message-content intent to read ordinary server chat messages. Information you send to Discord and content posted in a server remain subject to Discord's handling and that server's settings.
+
+PUBLIC POSTS
+Mining results and dashboard controls may be posted in the channel where you play or in a results channel selected by a server administrator. People with access to that channel may see the result and the display name included with it. Avoid using the Service if you do not want that activity visible to the channel.
+
+HOW INFORMATION IS USED
+We use the information above to provide and maintain game progress, process actions and rewards, operate crews and server events, show public results, prevent duplicate or unauthorized actions, troubleshoot errors, and maintain an audit trail of privileged changes.
+
+STORAGE AND SHARING
+Game and server data is stored in files by the operator running the Service, on that operator's hosting environment. It is not stored by the GitHub Pages site that hosts this policy. The Service communicates with Discord to receive interactions and send responses; Discord processes that information under its own terms and privacy policy. GitHub provides hosting for these policy pages and may process ordinary website request data under GitHub's policies. We do not currently use the Service to sell personal information or serve targeted advertising.
+
+RETENTION AND DELETION
+Player profiles, crew records, server settings, dashboard references, and owner audit records remain in the operator's data files until the operator removes them. The Service does not currently apply an automatic deletion schedule to those saved files or audit records. Operators may also maintain backups or infrastructure logs under their own practices.
+
+To ask about, correct, or request deletion of Service data, email gohanagustin07@gmail.com and include your Discord user ID and, if relevant, the server involved. The operator may need to verify the request and access to the relevant bot instance. Requests will be handled as required by applicable law and subject to technical, security, and legal limitations.
+
+SECURITY
+The operator is responsible for securing the machine and backups where the bot runs. No storage or transmission method can be guaranteed completely secure. Do not send passwords, payment details, or other sensitive information to the bot.
+
+CHILDREN AND LOCAL PRIVACY RIGHTS
+The Service is not intended to override Discord's minimum-age requirements. If you believe a child has provided information through the Service, contact us. Depending on your location, you may have rights to access, correct, or request deletion of personal information under applicable privacy law.
+
+CHANGES AND CONTACT
+We may update this policy as the Service changes. We will revise the effective date when we do.
+Questions or privacy requests: gohanagustin07@gmail.com
+
+Virtual Miner is not affiliated with, endorsed by, or sponsored by Discord.
